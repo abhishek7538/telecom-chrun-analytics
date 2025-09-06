@@ -75,6 +75,6 @@ This end-to-end solution shows data analysis and business intelligence capabilit
   - Retention suggestion via Smart Narrative
 
 ## How to Run
-1. Open `telco_churn.py` or notebook to explore preprocessing & modeling
+1. Open `tele_finalML-checkpoint.ipynb` or notebook to explore preprocessing & modeling
 2. Load `DA_telec_customer_churn.xlsx` in Power BI
 3. Open `Final_Report.pbix` to explore dashboards and KPIs
