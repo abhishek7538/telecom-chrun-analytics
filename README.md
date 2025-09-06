@@ -37,6 +37,8 @@ This end-to-end solution shows data analysis and business intelligence capabilit
 - One-hot encoded multi-category columns (Contract, PaymentMethod, InternetService, etc.)
 - Scaled numeric columns: tenure, MonthlyCharges, TotalCharges
 
+### Note:
+- Some operations of EDA on Dataset are executed and related files are attached 'tel.py', 'tel2.py', tel3.py' which include fillna to fill the missing valures of features and dropna for non-important features
 ## Exploratory Data Analysis
 
 ### Contract vs Churn
@@ -50,6 +52,7 @@ This end-to-end solution shows data analysis and business intelligence capabilit
 ### Heatmap - Feature Correlation
 - Shows correlation between numeric features.
 <img width="600" height="500" alt="Heatmap - Feature Correlation" src="https://github.com/user-attachments/assets/e1cc0044-bbf0-4981-afaf-e99ac13f199d" />
+
 
 ## Modeling
 - Logistic Regression model for churn prediction
