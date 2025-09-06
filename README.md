@@ -17,9 +17,9 @@ This end-to-end solution shows data analysis and business intelligence capabilit
 - [Dataset](#Dataset)
 - [Data Preprocessing & Cleaning](#Data-Preprocessing-&-Cleaning)
 - [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
-  - [Contract vs Churn (Bar Chart)](#1.-Contract-vs-Churn)
-  - [Customer Churn by Payment Method (Bar Chart)](#2.-Customer-Churn-by-Payment-Method)
-  - [Feature Correlation (Heatmap)](#3.-Heatmap---Feature-Correlation)
+  - [Contract vs Churn (Bar Chart)](#Contract-vs-Churn)
+  - [Customer Churn by Payment Method (Bar Chart)](#Customer-Churn-by-Payment-Method)
+  - [Feature Correlation (Heatmap)](#Heatmap---Feature-Correlation)
 - [Modeling](#Modeling)
 - [Insights & Observations](#Insights-&-Observations)
 - [Power BI Dashboard](#Power-BI-Dashboard)
@@ -39,17 +39,17 @@ This end-to-end solution shows data analysis and business intelligence capabilit
 
 ## Exploratory Data Analysis
 
-### 1. Contract vs Churn
+### Contract vs Churn
 - Observes which contract types have higher churn rates.
-<img width="600" height="400" alt="Bar Chart -  Contract vs Churn" src="https://github.com/user-attachments/assets/7a618aa8-3d0b-453e-aa81-e66f37dbb373" />
+<img width="600" height="500" alt="Bar Chart -  Contract vs Churn" src="https://github.com/user-attachments/assets/7a618aa8-3d0b-453e-aa81-e66f37dbb373" />
 
-### 2. Customer Churn by Payment Method
+### Customer Churn by Payment Method
 - Highlights payment methods linked with higher churn.
-<img width="1000" height="500" alt="Bar Chart - Customer Churn by Payment Method" src="https://github.com/user-attachments/assets/fb0735cc-b990-479e-a955-5613dbc271f6" />
+<img width="600" height="500" alt="Bar Chart - Customer Churn by Payment Method" src="https://github.com/user-attachments/assets/fb0735cc-b990-479e-a955-5613dbc271f6" />
 
-### 3. Heatmap - Feature Correlation
+### Heatmap - Feature Correlation
 - Shows correlation between numeric features.
-<img width="636" height="435" alt="Heatmap - Feature Correlation" src="https://github.com/user-attachments/assets/e1cc0044-bbf0-4981-afaf-e99ac13f199d" />
+<img width="600" height="500" alt="Heatmap - Feature Correlation" src="https://github.com/user-attachments/assets/e1cc0044-bbf0-4981-afaf-e99ac13f199d" />
 
 ## Modeling
 - Logistic Regression model for churn prediction
